@@ -2,6 +2,7 @@
 This repository includes all the assignments I completed in CSCI 3110 - Algorithms and Data Structures.
 
 The following directories include:
+
 project 1 - This program implments the preparation routines used in a card game played
 among four players. The inputs include a CardType Struct, a CardClass class, a count and
 cardType array data members, 4 enum variables, and a few functions to shuffle,
