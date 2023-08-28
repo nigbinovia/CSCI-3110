@@ -16,6 +16,6 @@ project 4 - TBC
 
 project 5 - This C++ program reads user and seller data from files, creating objects for each seller type. After user authentication, the program offers actions such as printing all seller data, checking specific sellers, adding new sellers (regular and power), and removing sellers. It provides a console interface to manage and interact with seller and user information.
 
-project 6 - 
+project 6 - This program solves four different recursive problems regarding the fibonacci sequence, finding the sum of integers, finding the largest integer, and finding eagles on a coordinate plane. 
 
 project 7 - TBC
