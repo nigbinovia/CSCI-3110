@@ -1,5 +1,5 @@
 # CSCI-3110
-This repository includes all the assignments I completed in CSCI 3110 - Algorithms and Data Structures.
+This repository includes all the assignments I completed in CSCI 3110 - Algorithms and Data Structures (Spring 2023).
 
 The following directories include:
 
